@@ -1,1 +1,2 @@
-# Traicord
+# Training Portal Website
+Developed a website using PHP, Bootstrap, HTML, CSS and Javascript for convenience of teachers in the college. The website allows teachers from various branches to apply for permissions for their training programs. The portal is designed in such a way that it includes all the fundamental functionalities of a website. In addition to it, the HODs and Admins of the college can approve or reject the permission of an applicant. The teachers get notified on the status of their application whether it is accepted or rejected via an automated email. The whole motive of this website is to develop a paperless and seamless system which is both efficient and convenient to use.
